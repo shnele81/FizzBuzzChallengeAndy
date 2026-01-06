@@ -7,15 +7,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f61751c-3102-4851-99eb-87af99afcefa" name="Changes" comment="" />
+    <list default="true" id="9f61751c-3102-4851-99eb-87af99afcefa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FizzBuzzChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FizzBuzzChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzzChallenge/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzzChallenge/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzzChallenge/obj/Debug/net9.0/FizzBuzzChallenge.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzzChallenge/obj/Debug/net9.0/FizzBuzzChallenge.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzzChallenge/obj/Debug/net9.0/FizzBuzzChallenge.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzzChallenge/obj/Debug/net9.0/FizzBuzzChallenge.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzzChallenge/obj/Debug/net9.0/FizzBuzzChallenge.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzzChallenge/obj/Debug/net9.0/FizzBuzzChallenge.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzzChallenge/obj/Debug/net9.0/FizzBuzzChallenge.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzzChallenge/obj/Debug/net9.0/FizzBuzzChallenge.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzzChallenge/obj/FizzBuzzChallenge.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzzChallenge/obj/FizzBuzzChallenge.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzzChallenge/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzzChallenge/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzzChallenge/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzzChallenge/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzzChallenge/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzzChallenge/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzzChallenge/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzzChallenge/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shnele81&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/shnele81/FizzBuzzChallengeAndy.git&quot;,
+    &quot;accountId&quot;: &quot;f616abc9-e772-4d2a-83ef-3fd924cd862b&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 4
@@ -27,9 +54,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Project.FizzBuzzChallenge.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -73,7 +102,8 @@
       <updated>1761233479361</updated>
       <workItem from="1761233480628" duration="18000" />
       <workItem from="1761233535946" duration="1476000" />
-      <workItem from="1761659032289" duration="422000" />
+      <workItem from="1761659032289" duration="590000" />
+      <workItem from="1767711347057" duration="528000" />
     </task>
     <servers />
   </component>

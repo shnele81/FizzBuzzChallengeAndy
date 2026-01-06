@@ -1,0 +1,15 @@
+C:\Users\andy1\OneDrive\Desktop\repos\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\net9.0\FizzBuzzChallenge.exe
+C:\Users\andy1\OneDrive\Desktop\repos\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\net9.0\FizzBuzzChallenge.deps.json
+C:\Users\andy1\OneDrive\Desktop\repos\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\net9.0\FizzBuzzChallenge.runtimeconfig.json
+C:\Users\andy1\OneDrive\Desktop\repos\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\net9.0\FizzBuzzChallenge.dll
+C:\Users\andy1\OneDrive\Desktop\repos\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\net9.0\FizzBuzzChallenge.pdb
+C:\Users\andy1\OneDrive\Desktop\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net9.0\FizzBuzzChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andy1\OneDrive\Desktop\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net9.0\FizzBuzzChallenge.AssemblyInfoInputs.cache
+C:\Users\andy1\OneDrive\Desktop\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net9.0\FizzBuzzChallenge.AssemblyInfo.cs
+C:\Users\andy1\OneDrive\Desktop\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net9.0\FizzBuzzChallenge.csproj.CoreCompileInputs.cache
+C:\Users\andy1\OneDrive\Desktop\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net9.0\FizzBuzzChallenge.sourcelink.json
+C:\Users\andy1\OneDrive\Desktop\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net9.0\FizzBuzzChallenge.dll
+C:\Users\andy1\OneDrive\Desktop\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net9.0\refint\FizzBuzzChallenge.dll
+C:\Users\andy1\OneDrive\Desktop\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net9.0\FizzBuzzChallenge.pdb
+C:\Users\andy1\OneDrive\Desktop\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net9.0\FizzBuzzChallenge.genruntimeconfig.cache
+C:\Users\andy1\OneDrive\Desktop\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net9.0\ref\FizzBuzzChallenge.dll
