@@ -7,7 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f61751c-3102-4851-99eb-87af99afcefa" name="Changes" comment="" />
+    <list default="true" id="9f61751c-3102-4851-99eb-87af99afcefa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/FizzBuzzChallenge/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzzChallenge/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,6 +94,7 @@
       <workItem from="1761233535946" duration="1476000" />
       <workItem from="1761659032289" duration="590000" />
       <workItem from="1767711347057" duration="744000" />
+      <workItem from="1767712118137" duration="168000" />
     </task>
     <servers />
   </component>
